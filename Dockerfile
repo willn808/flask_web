@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-MAINTAINER William "email.ngowj@gmail.com"
+MAINTAINER William "xxx@gmail.com"
 
 RUN apt-get update -y && \
     apt-get install -y python-pip python-dev
